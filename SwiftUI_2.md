@@ -136,3 +136,9 @@ struct PreviewWrapper: View {
 
 * [Apple 공식 문서 - Data Flow](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app)
 * [Swift with Majid: ObservableObject](https://swiftwithmajid.com/2019/12/18/the-power-of-observableobject-in-swiftui/)
+
+---
+
+## ⏭️ 다음 단계
+
+[SwiftUI 3단계: 복합 UI 구성](SwiftUI_3.md)
