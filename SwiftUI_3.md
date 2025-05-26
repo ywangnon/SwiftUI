@@ -210,4 +210,4 @@ struct CardScrollView: View {
 
 ## ⏭️ 다음 단계
 
-[SwiftUI 4단계: ](SwiftUI_4.md)
+[SwiftUI 4단계: 애니메이션과 제스처](SwiftUI_4.md)
