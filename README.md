@@ -128,5 +128,5 @@ SwiftUI와 함께 사용하는 비동기 처리 방식까지 배우면 앱 완�
 
 ## ⏭️ 다음 단계
 
-[SwiftUI 1단계: 기본 이해](SwiftUI_1)
+[SwiftUI 1단계: 기본 이해](SwiftUI_1.md)
 
